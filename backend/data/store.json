@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "u-ana",
+      "name": "Ana Maria",
+      "username": "anasilva",
+      "email": "ana@insta.com",
+      "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "bio": "Fotografia, café e código.",
+      "avatar": "/uploads/63354cf4-2c05-4d81-871c-af15d4314341.webp"
+    }
+  ],
+  "posts": [
+    {
+      "id": "p-1",
+      "userId": "u-ana",
+      "imageUrl": "/uploads/sample-1.svg",
+      "caption": "Fim de tarde incrível!",
+      "likes": 3
+    },
+    {
+      "id": "p-2",
+      "userId": "u-ana",
+      "imageUrl": "/uploads/sample-2.svg",
+      "caption": "Trilha de hoje.",
+      "likes": 2
+    },
+    {
+      "id": "a8c32638-645e-4e6d-b256-b26cfab4b73a",
+      "userId": "u-ana",
+      "imageUrl": "/uploads/b9ed683f-85f3-4f85-91c1-fdfa57a3f1c0.jpeg",
+      "caption": "Teste",
+      "likes": 1
+    },
+    {
+      "id": "a20b8df8-7683-4002-b78f-fd6a376fd65a",
+      "userId": "u-ana",
+      "imageUrl": "/uploads/6df22fcd-38db-4a62-bc13-4878e25cd932.jpeg",
+      "caption": "27 anos de namoro com Louro José ❤️",
+      "likes": 1
+    }
+  ]
+}
